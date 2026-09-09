@@ -1,0 +1,18 @@
+{
+  "api": {
+    "is_user_authenticated": false,
+    "type": "openapi",
+    "url": "https://sebastienrousseau.com/php-config/openapi.yaml"
+  },
+  "auth": {
+    "type": "none"
+  },
+  "contact_email": "support@sebastienrousseau.com",
+  "description_for_human": "Shareable PHP configuration providing standardized PHP-CS-Fixer, PHPStan, and Psalm rules adhering to modern 2026 standards.",
+  "description_for_model": "Shareable PHP configuration providing standardized PHP-CS-Fixer, PHPStan, and Psalm rules adhering to modern 2026 standards.",
+  "legal_info_url": "https://sebastienrousseau.com/php-config/legal",
+  "logo_url": "https://sebastienrousseau.com/php-config/favicon.ico",
+  "name_for_human": "@sebastienrousseau/php-config — Shareable PHP configuration providing standardized PHP-CS-Fixer, PHPStan, and Psalm rules adhering to modern 2026 standards.",
+  "name_for_model": "php_config",
+  "schema_version": "v1"
+}

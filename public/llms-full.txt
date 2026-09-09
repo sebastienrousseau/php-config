@@ -1,0 +1,5 @@
+# php-config
+
+> Shareable PHP configuration providing standardized PHP-CS-Fixer, PHPStan, and Psalm rules adhering to modern 2026 standards.
+
+Language: en-GB
