@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable PHP configuration providing standardized PHP-CS-Fixer, PHPStan, and Psalm rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/php-config — Shareable PHP configuration standards for PHP-CS-Fixer, PHPStan, and Psalm.",
+    "url": "https://sebastienrousseau.com/php-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/php-config.",
     "locale": "en-GB",
