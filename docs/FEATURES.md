@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .php-cs-fixer.php
+
 Standardized PHP-CS-Fixer preset enforcing PER-CS 2.0, declare_strict_types, and ordered imports. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. phpstan.neon
+
 Level 8 PHPStan static analysis configuration auditing types, dead code, and exception handling. Designed to guarantee deterministic behavior across all development and continuous integration environments.
