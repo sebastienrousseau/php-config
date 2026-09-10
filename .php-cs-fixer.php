@@ -1,4 +1,8 @@
 <?php
+
+// SPDX-FileCopyrightText: 2026 Sebastien Rousseau <sebastian.rousseau@gmail.com>
+// SPDX-License-Identifier: Apache-2.0 OR MIT
+
 $finder = PhpCsFixer\Finder::create()
     ->in(__DIR__)
     ->exclude(['vendor']);

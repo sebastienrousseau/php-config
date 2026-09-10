@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable PHP configuration standards providing PER-CS 2.0 / PSR-12 formatting and Level 8 PHPStan analysis.
 
 ---
@@ -22,11 +23,13 @@ Shareable PHP configuration standards providing PER-CS 2.0 / PSR-12 formatting a
 ## Feature & Property Reference
 
 ### 1. .php-cs-fixer.php
+
 - **Description**: Standardized PHP-CS-Fixer preset enforcing PER-CS 2.0, declare_strict_types, and ordered imports.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. phpstan.neon
+
 - **Description**: Level 8 PHPStan static analysis configuration auditing types, dead code, and exception handling.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
