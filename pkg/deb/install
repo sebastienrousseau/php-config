@@ -1,0 +1,9 @@
+index.js usr/share/nodejs/@sebastienrousseau/php-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/php-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/php-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/php-config/
+.php-cs-fixer.php usr/share/nodejs/@sebastienrousseau/php-config/
+phpstan.neon usr/share/nodejs/@sebastienrousseau/php-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/php-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/php-config/
+package.json usr/share/nodejs/@sebastienrousseau/php-config/
