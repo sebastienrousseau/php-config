@@ -6,7 +6,7 @@
 class PhpConfig < Formula
   desc "Shareable PHP configuration providing standardized PHP-CS-Fixer, PHPStan, and Psalm rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/php-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/php-config/-/php-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/php-config/-/php-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
